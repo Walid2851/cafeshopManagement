@@ -37,7 +37,8 @@ or you can click run button.
 - JDBC
 - Apache Maven
 
-[![Watch the video](https://img.youtube.com/vi/t53PO7Sdckw/0.jpg)](https://youtu.be/t53PO7Sdckw?si=_bImSxaMjqeLZHXW)
+[![Watch the video](https://img.youtube.com/vi/IeNikI1DcSk/0.jpg)](https://youtu.be/IeNikI1DcSk?si=ZtO4Y-Al61kHcVIL)
+
 
 
 
